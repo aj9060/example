@@ -1,0 +1,13 @@
+{
+   "name": "hello-world",
+   "version":"1.0.0",
+   "description": "A Simple Node.js Hello World application",
+   "main":"index.js",
+   "scripts": {
+     "start":"node index.js"
+   },
+   "dependencies": {}
+}
+
+
+docker pull lalitdevops3/demo:hellodevopsv1
